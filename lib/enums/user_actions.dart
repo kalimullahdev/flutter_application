@@ -1,0 +1,1 @@
+enum SingleUserActions { edit, delete }
